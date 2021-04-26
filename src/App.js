@@ -1,13 +1,18 @@
 import logo from './logo.svg';
 import './App.css';
 
+// Commit => App.js (made hello world) 3:14 monday
+// Commit 2 
+// Commit 3 
+// Push
+
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hello World
         </p>
         <a
           className="App-link"
